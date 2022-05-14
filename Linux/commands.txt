@@ -1,0 +1,27 @@
+1) grep
+
+2) find
+
+3) awk
+
+4) seq
+
+5) ifconfig , ip
+
+6) netstat
+
+7) systemctl
+
+8) passwd
+
+9) top
+
+10) kill
+
+11) alias
+
+12) free
+
+13) wget
+
+14) lsof
